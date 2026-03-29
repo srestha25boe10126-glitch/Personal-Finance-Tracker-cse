@@ -13,7 +13,7 @@ Requirements
 •	No additional libraries needed—pure standard library Python.
 Setup Instructions
 1.	Ensure Python is installed: Run python --version in your terminal. Download from python.org if needed.
-2.	Create a new directory for the project: mkdir student-expense-tracker && cd student-expense-tracker.
+2.	Create a new directory for the project: mkdir student-expense-tracker & cd student-expense-tracker.
 3.	Save the provided code as expense_tracker.py in this directory.
 Running the App
 1.	Open a terminal in the project directory.
