@@ -4,17 +4,17 @@ This is a simple command-line Student Expense Tracker built in Python. It allows
 The app runs in a loop with a menu interface and handles input validation for amounts.
 
 
-Features
-•	Add expenses with amount and category (Food, Travel, Academics, Entertainment, Misc).
-•	View all recorded expenses in a numbered list.
-•	Calculate total spending and average expense.
-•	Identify the highest and lowest expense amounts.
-•	Invalid category defaults to "Misc"; non-numeric amounts show error messages.
+Features :
+1.	Add expenses with amount and category (Food, Travel, Academics, Entertainment, Misc).
+2.	View all recorded expenses in a numbered list.
+3.	Calculate total spending and average expense.
+4.	Identify the highest and lowest expense amounts.
+5.	Invalid category defaults to "Misc"; non-numeric amounts show error messages.
 
 
-Requirements
-•	Python 3.6 or higher (uses built-in modules: sys, no external dependencies).
-•	No additional libraries needed—pure standard library Python.
+Requirements :
+1.	Python 3.6 or higher (uses built-in modules: sys, no external dependencies).
+2.	No additional libraries needed—pure standard library Python.
 
 
 Setup Instructions
@@ -34,18 +34,18 @@ Example first run output:
    
 --- Welcome to the Student Expense Tracker ---
 Usage Examples
-•	Add Expense: Choose 1, enter amount (e.g., 10.50), category (e.g., Food).
-•	View Expenses: Choose 2 to list all with indices.
-•	Summary: Choose 3 for total/average after adding data.
-•	Min/Max: Choose 4 to see extremes.
+1.	Add Expense: Choose 1, enter amount (e.g., 10.50), category (e.g., Food).
+2.	View Expenses: Choose 2 to list all with indices.
+3.	Summary: Choose 3 for total/average after adding data.
+4.	Min/Max: Choose 4 to see extremes.
 
 
 Troubleshooting
-•	"Invalid input": Enter numeric amounts only.
-•	No data errors: Add expenses first.
-•	Customize categories by editing the categories list in code.
+1.	"Invalid input": Enter numeric amounts only.
+2.	No data errors: Add expenses first.
+3.	Customize categories by editing the categories list in code.
 
 
-Future Improvements
+Future Improvements :
 Add file I/O for persistence, category editing, or reports export—great for academic extensions.
 
